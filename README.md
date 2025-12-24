@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi, I’m Andrei!<br><br>**Second-year BSc Technical Computer Science & Honours Mathematics @ University of Twente** · Available for internships & open to relocate/commute.  <br>I build distributed systems, embedded IoT projects, and full-stack web apps — all this combined with AI/ML pipelines and data engineering.<br><br>🤝 I’m looking to collaborate on<br>- Research / projects combining distributed systems and ML inference pipelines.<br>- Open source tools for ETL, docs, or small-scale IoT integrations.<br>- But! I’m always open to collaborations and new ideas — feel free to reach out if you’d like to work together or discuss potential projects.
 
+Visit my website: https://www.andreifedyna.com/
+
 
 ### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EE4kkPstb6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-fedyna) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31779010) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/andreifedyna) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Evalut) 
